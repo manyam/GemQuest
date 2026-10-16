@@ -5,6 +5,10 @@
 [![Room Database](https://img.shields.io/badge/Room-SQLite%20Persistence-3DDC84.svg?logo=sqlite&logoColor=white)](https://developer.android.com/training/data-storage/room)
 [![Tests](https://img.shields.io/badge/Unit%20Tests-Passing%20(Robolectric)-success.svg)](https://robolectric.org/)
 
+<p align="center">
+  <img src="gemquest-home-screen.png" alt="GemQuest Home Screen" width="340" />
+</p>
+
 **GemQuest** transforms everyday household responsibilities into an engaging RPG adventure. Children step into the shoes of **Adventurers**, completing daily quests to earn shiny **Gems** and **XP**, level up their hero titles (from *Novice Recruit* to *Legendary Master of Quests*), unlock milestone badges, and redeem exciting rewards in the **Loot Vault**. Parents manage household operations through a secure PIN-guarded **Parent Command Center** equipped with automated keyword icon matching, one-tap approvals, custom rewards, and weekly analytics reports.
 
 ---
