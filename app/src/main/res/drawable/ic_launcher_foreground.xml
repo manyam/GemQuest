@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="54"
+        android:translateY="54"
+        android:scaleX="1.1"
+        android:scaleY="1.1">
+        <!-- Gem Upper Crown Facet -->
+        <path
+            android:fillColor="#FFD54F"
+            android:pathData="M-22,-12 L-10,-26 L10,-26 L22,-12 Z" />
+        <!-- Gem Center Triangle -->
+        <path
+            android:fillColor="#FFCA28"
+            android:pathData="M-10,-26 L10,-26 L0,-12 Z" />
+        <!-- Gem Main Pavilion Center -->
+        <path
+            android:fillColor="#FFB300"
+            android:pathData="M-22,-12 L22,-12 L0,24 Z" />
+        <!-- Gem Left Pavilion Facet -->
+        <path
+            android:fillColor="#FFA000"
+            android:pathData="M-22,-12 L-8,-12 L0,24 Z" />
+        <!-- Gem Right Pavilion Facet -->
+        <path
+            android:fillColor="#FF8F00"
+            android:pathData="M8,-12 L22,-12 L0,24 Z" />
+        <!-- Gem Top Sparkle Highlight -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M-10,-24 L-4,-24 L-7,-16 L-15,-16 Z" />
+        <!-- Center Emblem / Star -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M0,-8 L2,-2 L8,0 L2,2 L0,8 L-2,2 L-8,0 L-2,-2 Z" />
+    </group>
+</vector>
