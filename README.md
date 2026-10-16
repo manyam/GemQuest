@@ -149,6 +149,10 @@ Room inserts ChoreEntity ──> StateFlow emits updated chore list to Kid & Par
 
 ## 📱 Sample Screenshots & Screen Wireframes
 
+| Kid Adventurer (Quests) | Kid Adventurer (Ranks & Badges) | Parent Command (Quests) | Parent Command (Reports) |
+| :---: | :---: | :---: | :---: |
+| <img src="GemQuest-sample-kid-screen-1.png" width="220" alt="Kid Adventurer Hub - Quests" /> | <img src="GemQuest-sample-kid-screen-2.png" width="220" alt="Kid Adventurer Hub - Ranks & Badges" /> | <img src="GemQuest-sample-parent-screen-1.png" width="220" alt="Parent Command Center - Quests" /> | <img src="GemQuest-sample-parent-screen-2.png" width="220" alt="Parent Command Center - Reports" /> |
+
 ### Screen 1: Entry / Role Selection (`EntryScreen.kt`)
 ```
 +-------------------------------------------------------+
